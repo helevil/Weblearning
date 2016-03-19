@@ -1,0 +1,143 @@
+<!DOCTYPE html> 
+<html> 
+     <head> 
+         <meta charset="utf-8"/> 
+         <title>Task - 1</title> 
+     </head> 
+     <body> 
+         <h1>Hello Kitty</h1> 
+         <ul> 
+             <li> 
+                 <a href="#">homepage</a> 
+             </li> 
+            <li> 
+                <a href="#">video</a> 
+             </li> 
+             <li> 
+                 <a href="#">shopping</a> 
+             </li> 
+             <li> 
+                 <a href="#">links</a> 
+             </li> 
+         </ul> 
+        <h2>西电百度俱乐部</h2> 
+         <h2>西电百度俱乐部第一小分队</h2> 
+         <p>西电百度俱乐部 2016年</p> 
+         <p>一起写代码，一起写代码，一起写代码，一起写代码，一起写代码，一起写代码，一起写代码
+             <br/> 
+             换行了 
+             <br/> 
+             一起写代码，一起写代码，一起写代码，一起写代码，一起写代码，一起写代码，一起写代码 
+             <br/> 
+             一起写代码，
+             <a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a> 
+             一起写代码，
+             <b>一起写代码！</b> 
+             
+         </p> 
+         <img src="http://www.diyifanwen.com/Files/BeyondPic/2007-10/21/xd.gif" /> 
+         <p>来西电我们一起写代码 
+             <br/> 
+             来西电我们一起写代码好吧~
+             <br/> 
+             真是一个好主意
+             <br/> 
+             其实写代码。。。 
+             <a href="http://ife.baidu.com" target="_black">这里有一个链接点击后打开新窗口链接到http://ife.baidu.com</a> 
+             <br/>
+             <b>真是一个好主意! </b> 
+			 <br/>
+            这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落，这是一个很长的段落， 
+         </p> 
+         <h2>西电百度俱乐部是个好地方</h2> 
+         <h2>你猜猜看我怎么想</h2> 
+         <p>西电百度俱乐部 2016年</p> 
+         <p>继续写代码，继续写代码，继续写代码，继续写代码，继续写代码，
+             <br/> 
+             换行了 
+             <br/> 
+             继续写代码，继续写代码，继续写代码，继续写代码，继续写代码，换
+             <br/> 
+             继续写代码，继续写代码，继续写代码，继续写代码，继续写代码，
+             <a href="http://ife.baidu.com">这里有一个链接链接到http://ife.baidu.com</a> 
+             <br/>
+			 继续写代码，继续写代码，继续写代码，继续写代码，继续写代码，
+             <b>这里有个粗体字</b> 
+             继续写代码，继续写代码，继续写代码，继续写代码，继续写代码 
+         </p> 
+         <img src="http://f.hiphotos.baidu.com/baike/c0%3Dbaike92%2C5%2C5%2C92%2C30/sign=e9875520369b033b3885f48874a75db6/d0c8a786c9177f3e5aa4b42972cf3bc79f3d5605.jpg" /> 
+         <ul> 
+            <li>程序猿一</li> 
+            <li>程序猿二</li> 
+            <li>程序猿三</li> 
+         </ul>           
+         <dl> 
+             <dt><h2>西电风景</h2></dt> 
+             <dd>好看的图片</dd> 
+             <dd><img src="http://bbs.xidian.edu.cn/data/attachment/forum/month_1010/1010211127fdfece3716303ba9.jpg" /></dd> 
+         </dl> 
+         <h2>实在不知道说什么的标题</h2> 
+        <h2>不知道说什么的二级标题</h2> 
+         <p>文章作者 文章发表时间</p> 
+         <ol> 
+             <li>排名1</li> 
+             <li>排名2</li> 
+             <li>排名3</li> 
+         </ol> 
+         <div> 
+             下面是一个表格，给表格添加一个 border="1"好让你看出是一个表格 
+             <table border="1"> 
+                 <head> 
+                     <th>表头</th> 
+                     <th>表头</th> 
+                     <th>表头</th> 
+                 </head> 
+                 <tbody> 
+                     <tr> 
+                         <td>表内容单元格</td> 
+                         <td>表内容单元格</td> 
+                         <td><a href="#">操作</a></td> 
+                     </tr> 
+                     <tr> 
+                         <td>表内容单元格</td> 
+                         <td>表内容单元格</td> 
+                         <td><a href="#">操作</a></td> 
+                     </tr> 
+                     <tr> 
+                         <td>表内容单元格</td> 
+                         <td>表内容单元格</td> 
+                         <td><a href="#">操作</a></td> 
+                     </tr> 
+                     <tr> 
+                         <td>表内容单元格</td> 
+                         <td>表内容单元格</td> 
+                         <td><a href="#">操作</a></td> 
+                     </tr> 
+                     <tr> 
+                         <td>总计</td> 
+                         <td colspan="2">1000</td> 
+                     </tr> 
+                 </tbody> 
+             </table> 
+         </div> 
+         <h2>这里以后是一个侧栏，这是侧栏题目</h2> 
+         <h2>侧栏注册窗口标题</h2> 
+         <p>请输入邮箱地址：<input type="text" value="这是一个文本输入框"></p> 
+         <p>邮箱地址请按要求格式输入</p> 
+         <p> 
+             请输入密码：<input type="text" value="这是一个文本输入框"> 
+             请重复输入密码：<input type="text" value="这是一个文本输入框"> 
+         </p> 
+         <p>密码请为6-16位英文数字</p> 
+         <div> 
+             性别：<input type="radio">男<input type="radio"> 
+             城市：<select> 
+                 <option>西安</option> 
+             </select> 
+             爱好：<input type="checkbox">运动<input type="checkbox">艺术<input type="checkbox">科学 
+             个人描述：<textarea rows="2">这是一个多长输入框，输入您的个人描述</textarea> 
+             <input type="submit" value="确认提交"> 
+         </div> 
+         <p>版权所有©</p> 
+     </body> 
+ </html> 
